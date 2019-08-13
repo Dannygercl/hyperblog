@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{
 =======
 body{
@@ -7,6 +8,8 @@ body{
 >>>>>>> 5531ecaee1017d7f76783e944e1f1ce93dd3b619
     text-align: left;
 =======
+=======
+>>>>>>> footer
 body
 {
     background: #1e1f24;
@@ -43,6 +46,7 @@ body
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #container
 {
     width: 70%;
@@ -68,4 +72,23 @@ body
     text-align: center;
     padding: 0.5em;
 >>>>>>> 5531ecaee1017d7f76783e944e1f1ce93dd3b619
+=======
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
+>>>>>>> footer
 }
