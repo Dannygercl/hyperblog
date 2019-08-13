@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{
+=======
+body{
+    color: blue;
+>>>>>>> 5531ecaee1017d7f76783e944e1f1ce93dd3b619
     text-align: left;
 =======
 body
@@ -37,6 +42,7 @@ body
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #container
 {
     width: 70%;
@@ -54,4 +60,12 @@ body
 {
     background: white;
     padding: 1em;
+=======
+#footer 
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> 5531ecaee1017d7f76783e944e1f1ce93dd3b619
 }
